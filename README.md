@@ -31,8 +31,6 @@ the `build.gradle` and `application.properties` files._
 ./gradlew bootRun
 ```
 
-- (Optional) [Clone the repository](https://github.com/dan-koller/React-Anti-Fraud-Frontend) and start
-  the [frontend](#frontend)
 
 The endpoints can be accessed using a browser or a tool that allows you to send HTTP requests
 like [Postman](https://www.getpostman.com/). There are several endpoints that you can use to interact with the system.
