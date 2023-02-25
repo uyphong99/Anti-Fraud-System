@@ -18,13 +18,8 @@ To build and run this project you need:
 1. Clone this repository
 
 ```shell
-git clone https://github.com/dan-koller/Spring-Anti-Fraud-System.git
+git clone https://github.com/uyphong99/Anti-Fraud-System
 ```
-
-2. [Create](https://www.mysqltutorial.org/mysql-create-database/) a database in MySQL
-
-
-
 
 _You can use an in-memory database (like [H2](https://www.h2database.com/html/main.html)) by configuring
 the `build.gradle` and `application.properties` files._
